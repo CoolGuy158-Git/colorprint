@@ -28,9 +28,6 @@ import colorprint
 # Basic color
 colorprint.cprint("Hello world!", "RED")
 
-# Rainbow print
-colorprint.rainbow_print("Hello bro!")
-
 # Bold text
 colorprint.cprint("Bold text!", "GREEN", style="BOLD")
 
