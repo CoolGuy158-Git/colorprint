@@ -24,15 +24,7 @@ pip install git+https://github.com/CoolGuy158-Git/colorprint.git
 
 ```python
 import colorprint
-
-# Basic color
 colorprint.cprint("Hello world!", "RED")
-
-# Bold text
-colorprint.cprint("Bold text!", "GREEN", style="BOLD")
-
-# Underline text
-colorprint.cprint("Underline me", "CYAN", style="UNDERLINE")
 ```
 
 ## License
