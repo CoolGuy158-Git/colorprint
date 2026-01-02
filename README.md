@@ -23,8 +23,11 @@ pip install git+https://github.com/CoolGuy158-Git/colorprint.git
 ## Usage
 
 ```python
-import colorprint
-colorprint.cprint("Hello world!", "RED")
+from colorprint import cprint
+cprint("Hello World", cstyle="RED+BOLD")
+cprint("Fancy text", cstyle="BLUE+UNDERLINE+ITALIC")
+cprint("Default text")
+cprint("Danger!", cstyle="RED+STRIKETHROUGH+BOLD")
 ```
 
 ## License
