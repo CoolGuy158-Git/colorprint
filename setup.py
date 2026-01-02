@@ -6,9 +6,9 @@ from setuptools import setup, find_packages
 
 setup(
     name="colorprint",
-    version="0.1",
+    version="0.2",
     packages=find_packages(),
-    description="Print colorful text in terminal easily",
+    description="Print styled text in terminal",
     author="CoolGuy158-Git",
     license="MIT",
 )
