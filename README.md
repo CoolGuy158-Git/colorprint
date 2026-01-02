@@ -10,7 +10,6 @@ It offers:
 
 * Colors
 * Styles
-* Rainbow prints
 * Bold/underline support
 * Fun, eye-catching terminal output!
 
