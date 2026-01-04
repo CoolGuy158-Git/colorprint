@@ -16,7 +16,7 @@ It offers:
 ## Installation
 
 ```bash
-pip install git+https://github.com/CoolGuy158-Git/colorprint.git
+pip install py-colorprint-cg
 ```
 
 ## Usage
