@@ -27,6 +27,7 @@ cprint("Hello World", cstyle="RED+BOLD")
 cprint("Fancy text", cstyle="BLUE+UNDERLINE+ITALIC")
 cprint("Default text")
 cprint("Danger!", cstyle="RED+STRIKETHROUGH+BOLD")
+cprint("Highlight!", "RED+BG_YELLOW+BOLD")
 ```
 
 ## License
